@@ -1,4 +1,5 @@
 dft-guide_webCECAM2017-w-ref.pdf
+
 CECAM2017_TLS-navarro-barranco_v2-w-ref.pdf
 
 Both the dft-guide and the CECAM2017_TLS-navarro-barranco lecture notes are recommended readings for anyone willing to learn more about the 4He-(TD)DFT software. They were prepared for the 2017 CECAM Tutorial "Dopant dynamics in superfluid helium-4 nanodroplets: from statics to time-dependent He-DFT" organized at the University of Toulouse, June 26-30, 2017 by Manuel Barranco, François Coppens and Nadine Halberstadt
