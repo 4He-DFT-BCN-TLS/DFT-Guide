@@ -1,3 +1,5 @@
+For a general introduction to the method, read first the review articles (the most recent one, 2017, if ou have to choose): Ancilotto_review-HeDFT_IRPC2017.pdf, Barranco_JLowTPhys2006f.pdf
+
 dft-guide_webCECAM2017-w-ref.pdf
 
 CECAM2017_TLS-navarro-barranco_v2-w-ref.pdf
