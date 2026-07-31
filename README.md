@@ -1,4 +1,4 @@
-For a general introduction to the method, read first the review articles (the most recent one, 2017, if ou have to choose): Ancilotto_review-HeDFT_IRPC2017.pdf, Barranco_JLowTPhys2006f.pdf
+For a general introduction to the method, read first the review articles (the most recent one, 2017, if you have to choose): Ancilotto_review-HeDFT_IRPC2017.pdf, Barranco_JLowTPhys2006f.pdf
 
 dft-guide_webCECAM2017-w-ref.pdf
 
@@ -8,6 +8,8 @@ Both the dft-guide and the CECAM2017_TLS-navarro-barranco lecture notes are reco
 https://www.cecam.org/workshop-details/dopant-dynamics-in-superfluid-helium-4-nanodroplets-from-statics-to-time-dependent-he-dft-321
 
 While the dft-guide contains technical information that can be useful when running a simulation, the lecture notes by Jesús NAVARRO and Manuel BARRANCO give the theoretical background for the density functional theory (DFT) approach.
+
+The Manual, in the Manual repository, will guide you step by step on how to use the programs.
 
 Please cite as: 
 Zero temperature DFT and TDDFT for $^4$He: A short guide for practitioners
